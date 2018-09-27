@@ -3911,7 +3911,7 @@ scatter_plot(city_dropped_df["Lat"],city_dropped_df["Temperature"],temp)
     
 
 
-![png](Temp_vs_Lat.png.png)
+![png](https://github.com/8135tao/WeatherAPIAnalysis/blob/master/Temp_vs_Lat.png)
 
 
 
@@ -3924,7 +3924,7 @@ scatter_plot(city_dropped_df["Lat"],city_dropped_df["Humidity"],humid)
     
 
 
-![png](WeatherPy_files/WeatherPy_15_1.png)
+![png](https://github.com/8135tao/WeatherAPIAnalysis/blob/master/Humi_vs_Lat.png)
 
 
 
@@ -3937,7 +3937,7 @@ scatter_plot(city_dropped_df["Lat"],city_dropped_df["Cloudiness (%)"],cloud)
     
 
 
-![png](WeatherPy_files/WeatherPy_16_1.png)
+![png](https://github.com/8135tao/WeatherAPIAnalysis/blob/master/Clou_vs_Lat.png)
 
 
 
@@ -3950,7 +3950,7 @@ scatter_plot(city_dropped_df["Lat"],city_dropped_df["Wind Speed (mph)"],wind)
     
 
 
-![png](WeatherPy_files/WeatherPy_17_1.png)
+![png](https://github.com/8135tao/WeatherAPIAnalysis/blob/master/Wind_vs_Lat.png)
 
 
 
