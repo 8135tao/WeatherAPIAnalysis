@@ -3911,7 +3911,7 @@ scatter_plot(city_dropped_df["Lat"],city_dropped_df["Temperature"],temp)
     
 
 
-![png](WeatherPy_files/WeatherPy_14_1.png)
+![png](Temp_vs_Lat.png.png)
 
 
 
