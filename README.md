@@ -1,4 +1,11 @@
 # WeatherAPIAnalysis
+# Observation 1:  
+From the first graph, we see that temperature is higher when the city is located at a place with lower (closer to the equator, which has zero latitude) latitude, and the temperature drops as we move up the latitude. This agrees with our geography knowledge: the equator receives more sunlight than places with higher latitude, hence the temperature should be higher at low latitude locations.
+# Observation 2: 
+From the humidity vs latitude graph, we found at the time the weather information was requested (Sep 22 at 9 pm) that in general cities across all latitudes have high humidity, as most points are clustered around 80-100%.
+
+# Observation 3: 
+Cloudiness, on the contrary, is evenly distributed across latitudes. What is interesting is that there are “stripes” that the graph forms. Suggesting the quantity “cloudiness” does not has a uniform distribution. More information is needed to form a hypothesis
 
 
 ```python
